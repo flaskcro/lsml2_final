@@ -1,0 +1,8 @@
+name: docker-example
+
+docker_env:
+  image:  mlflow-docker-future_sales
+
+entry_points:
+  main:
+    command: "python train.py"

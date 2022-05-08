@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/limdaekyoung/Project/FinalTask/mlruns/0/40560673fc454256a870b6f0182325ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 40560673fc454256a870b6f0182325ac
+run_uuid: 40560673fc454256a870b6f0182325ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652010748683
+status: 1
+tags: []
+user_id: limdaekyoung
